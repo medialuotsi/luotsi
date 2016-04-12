@@ -1,1 +1,2 @@
-sisältöä uuteen tiedostoon
+﻿sisältöä uuteen tiedostoon
+Toinen rivi sisältöä tähän tiedostoon
